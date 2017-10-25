@@ -6,8 +6,8 @@ title: "Jingxuan He"
 
 <img src="images/foto.jpeg" style="width:85%, height:60%">
 
-- I received a BS in Life Science fro Wuhan University, China in 2017. Now I am a first-year MS student in Biostatistics at Columbia University Medical Center.
+- I received a BS in Life Science from Wuhan University, China in 2017. Now I am a first-year MS student in Biostatistics at Columbia University Medical Center.
 
-- Previously I have worked on three projects. The first one was done in my second year of undergrad and the topic was about hyperlipidemia. The second project is about axon regeneration in C. elegans and I did it in my junior year of undergrad at UC San Diego. In the last year of my undergrad, I was s student intern at UT Southwestern Medical Center and I worked on a project about medical data analysis for renal cell carcinoma. The full description can be viewd on my [Linkedin](https://www.linkedin.com/in/jingxuanh/).
+- Previously I have worked on three projects. The first one was done in my second year of undergrad and the topic is about hyperlipidemia. The second project is about axon regeneration in C. elegans and I did it in my junior year of undergrad at UC San Diego. In the last year of my undergrad, I was a student intern at UT Southwestern Medical Center and I worked on a project to analyze medical data for renal cell carcinoma patients. The full description of my projects can be viewd on my [Linkedin](https://www.linkedin.com/in/jingxuanh/).
 
 - My full resume is avalable [here](https://jingxuanh.github.io/about.html)
