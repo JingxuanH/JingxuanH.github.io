@@ -10,4 +10,4 @@ title: "Jingxuan He"
 
 - Previously I have worked on three projects. The first one was done in my second year of undergrad and the topic was about hyperlipidemia. The second project is about axon regeneration in C. elegans and I did it in my junior year of undergrad at UC San Diego. In the last year of my undergrad, I was s student intern at UT Southwestern Medical Center and I worked on a project about medical data analysis for renal cell carcinoma. The full description can be viewd on my [Linkedin](https://www.linkedin.com/in/jingxuanh/).
 
-- My full resume is avalable [here](file:///C:/Users/Jingxuan/Columbia%20University/Courses/Data%20Science%20I/p8105_hw4_web_jh3909/about.html)
+- My full resume is avalable [here](https://jingxuanh.github.io/about.html)
