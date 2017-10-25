@@ -1,7 +1,11 @@
 ---
-title: "Holy cow!"
+title: "Jingxuan He"
 ---
 
-### I have a webpage!
+#### *MS Candidate in Biostatistics of Columbia University Medical Center*
 
-And I can put all kinds of stuff on it!
+![](C:/Users/Jingxuan/Columbia University/Courses/Data Science I/p8105_hw4_web_jh3909/foto.jpeg)<img src="images/image.jpg" style="width:70%">
+
+- I received......
+
+- My full resume is avalable [here](file:///C:/Users/Jingxuan/Columbia%20University/Courses/Data%20Science%20I/p8105_hw4_web_jh3909/about.html)
