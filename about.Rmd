@@ -4,4 +4,4 @@ title: "Jingxuan's Resume"
 
 
 
-<img src="images/He. J. Resume.jpg" style="width:100%">
+<img src="images/resume.png" style="width:100%">
