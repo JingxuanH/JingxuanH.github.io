@@ -4,7 +4,7 @@ title: "Jingxuan He"
 
 #### *MS Candidate in Biostatistics of Columbia University Medical Center*
 
-<img src="images/foto2.jpg" style="width:85%, height:60%">
+<img src="images/foto2.jpg" style="width:85%, height:30%">
 
 - I received a BS in Life Science from Wuhan University, China in 2017. Now I am a Second-year MS student in Biostatistics at Columbia University Medical Center.
 
