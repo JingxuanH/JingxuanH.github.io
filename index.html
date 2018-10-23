@@ -20,9 +20,11 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -31,10 +33,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -88,6 +92,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -216,10 +223,14 @@ $(document).ready(function () {
 
 <div id="ms-candidate-in-biostatistics-of-columbia-university-medical-center" class="section level4">
 <h4><em>MS Candidate in Biostatistics of Columbia University Medical Center</em></h4>
-<p><img src="images/foto.jpeg" style="width:85%, height:60%"></p>
+<p><img src="images/foto2.jpg" style="width:85%, height:60%"></p>
 <ul>
-<li><p>I received a BS in Life Science from Wuhan University, China in 2017. Now I am a first-year MS student in Biostatistics at Columbia University Medical Center.</p></li>
-<li><p>Previously I have worked on three projects. In the last year of my undergrad, I was a student intern at UT Southwestern Medical Center, Dallas and I worked on a project to build predictive model using longitudinal data for renal cell carcinoma patients. Also I had two biological-based projects. The one was done in my second year of undergrad is about hyperlipidemia. And the other one is about axon regeneration in C. elegans and I did it in my junior year of undergrad at UC San Diego. The full description of my projects can be viewd on my <a href="https://www.linkedin.com/in/jingxuanh/">Linkedin</a>.</p></li>
+<li><p>I received a BS in Life Science from Wuhan University, China in 2017. Now I am a Second-year MS student in Biostatistics at Columbia University Medical Center.</p></li>
+<li><p>Right now I am a Graduate Teaching Assistant for course Data Science I (Instructor: Jeff Goldsmith). Also I am working as Reseach Assistant at Department of Biostatistics with a focus on functional data analysis.</p></li>
+<li><p>Previously I have worked for pharmaceutical company and medical center. After competed first year of graduate study,I worked as Biostatistics and data science summer intern at Boehringer Ingelheim. At there I strengthened my <strong>SAS</strong> programming skills as well as learned clinical trial design. In the last year of my undergrad, I internd at UT Southwestern Medical Center, Dallas and worked in Quantitative Biomedical Research Center. The project is about EMR data analysis for renal cell carcinoma (a kind of kidney cancer). I used <strong>R programming</strong> to clean and visualize EMR data and built predictive model for patients survival rate with longitudinal data. The full description of my projects can be viewd on my <a href="https://www.linkedin.com/in/jingxuanh/">Linkedin</a>.</p></li>
+<li><p>I completed all undergraduate courses within five semesters and spent the other three semester to study abroad.</p></li>
+<li><p>I have been playing violin for 17 years! I was a violin player for university’s symphony orchestra when I was an undergrad. Right now I also play violin at Columbia University Medical Center Symphony Orchestra.</p></li>
+<li><p>I was the president of college debate team when I was in undergrad. I love brainstorming and critical thinking.</p></li>
 <li><p>My full resume is avalable <a href="https://jingxuanh.github.io/about.html">here</a></p></li>
 </ul>
 </div>
